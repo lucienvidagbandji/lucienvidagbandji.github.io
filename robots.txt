@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucienvidagbandji.github.io/sitemap.xml
+Sitemap: https://lucienvidagbandji.github.ioblank/sitemap.xml
