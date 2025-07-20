@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. student at the <a href='https://ufr-st.univ-lehavre.fr/spip.php?article23'>Laboratoire de Mathematiques Appliquées du Havre (LMAH) </a>, at the University of Le Havre Normandy, under the supervision of <a href='https://cyrillebertelle.fr'>Alexandre Berred </a> ,<a href='https://cyrillebertelle.fr'>Cyrille Bertelle </a> , and <a href='https://cyrillebertelle.fr'> Laurent Amanton</a>.
+I am currently a Ph.D. student at the <a href='https://ufr-st.univ-lehavre.fr/spip.php?article23'>Laboratoire de Mathematiques Appliquées du Havre (LMAH) </a>, at the University of Le Havre Normandy, under the supervision of <a href='https://lmah.univ-lehavre.fr › ~berred'>Alexandre Berred</a>, <a href='https://cyrillebertelle.fr'>Cyrille Bertelle</a>, and <a href='https://litis.univ-lehavre.fr/~amanton/accueil'> Laurent Amanton</a>.
 
 My research lies at the intersection of extreme value theory and statistical learning methods. I am particularly focused on the development of extreme quantile regression models, with the aim of analyzing and predicting the occurrence of extreme phenomena across various application domains. This work combines mathematical tools with modern statistical modeling techniques to address real-world challenges related to the understanding and management of extreme events.
