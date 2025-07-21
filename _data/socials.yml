@@ -10,9 +10,9 @@
 email: lucien.vidagbandji1@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
- github_username: lucienvidagbandji # your GitHub user name
+github_username: lucienvidagbandji # your GitHub user name
 # gitlab_username: # your GitLab user name
-# hal_id: # your HAL id (https://hal.science/)
+hal_id: lucien-vidagbandji # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
@@ -21,10 +21,10 @@ email: lucien.vidagbandji1@gmail.com # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: www.linkedin.com/in/lucien-vidagbandji-806429253 # your LinkedIn user name
+linkedin_username: lucien-vidagbandji-806429253 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
- orcid_id: https://orcid.org/0009-0007-4354-9019 # your ORCID ID
+orcid_id: 0009-0007-4354-9019 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
