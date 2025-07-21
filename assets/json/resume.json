@@ -40,7 +40,7 @@
       "location": "Le Havre, France",
       "url": "https://ufr-st.univ-lehavre.fr",
       "area": "Statistics",
-      "studyType": "PhD",
+      "studyType": "PhD in Statistics",
       "startDate": "2022-10-03",
       "endDate": "",
       "score": "",
@@ -51,7 +51,7 @@
       "location": "Porto-novo",
       "url": "https://www.imsp-benin.com/home/",
       "area": "Statistics and Probability",
-      "studyType": "M.Sc.",
+      "studyType": "M.Sc. in statistics-Probability",
       "startDate": "202O-10-03",
       "endDate": "2022-08-31",
       "score": "",
@@ -62,7 +62,8 @@
       "location": "Calavi, Bénin",
       "url": "https://www.uac.bj/ufr-entites-facultes-instituts-centres-uac/",
       "area": "Fundamental Mathematics",
-      "studyType": "B.Sc.",
+      "studyType": "B.Sc. in Fundamental Mathematics",
+      "startDate": "2019-10-03",
       "endDate": "2020-06-03",
       "score": "",
       "courses": ["Mathematics"]
@@ -84,7 +85,7 @@
       "icon": "fa-solid fa-tag"
     }
   ],
-  "publications": [
+  "communication": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -145,18 +146,6 @@
         "Probability"
         
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ]
 }
