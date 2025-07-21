@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Lucien VIDAGBANDJI
-      value: Lucien VIDAGBANDJI
+    - name: Full Name
+      value: Lucien M. VIDAGBANDJI
     - name: Date of Birth
       value: 15th December 1995
     - name: Languages
-      value: French, English.
+      value: French, English
 
 - title: Education
   type: time_table
@@ -84,8 +84,8 @@
   contents:
     - title: Topic 1.
       items:
-        - Description 1.
-        - Description 2.
+        - Description 1. 
+        - Description 2. 
     - title: Topic 2.
       items:
         - Description 1.
