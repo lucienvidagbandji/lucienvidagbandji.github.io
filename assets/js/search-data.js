@@ -83,7 +83,7 @@ ninja.data = [{
         title: 'HAL',
         section: 'Socials',
         handler: () => {
-          window.open("https://cv.hal.science/lucien-vidagbandji", "_blank");
+          window.open("https://cv.hal.science/mahutin-lucien-vidagbandji", "_blank");
         },
       },{
         id: 'social-linkedin',
