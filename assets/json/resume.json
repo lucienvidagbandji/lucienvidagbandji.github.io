@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mahutin Lucien VIDAGBANDJI",
+    "label": "PhD Student in statistics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lucien.vidagbandji1@gmail.com",
+    "phone": "(+33) 0773446863",
+    "url": "https://lucienvidagbandji.github.io",
+    "summary": "I am currently a Ph.D. student at the Laboratoire LMAH, at the University of Le Havre Normandy. My research lies at the intersection of extreme value theory and statistical learning methods.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "25 rue Philippe Lebon ",
+      "postalCode": "76600",
+      "city": "Le Havre",
+      "countryCode": "Fr",
+      "region": "Normandie"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkeding",
+        "username": "lucien-vidagbandji",
+        "url": "www.linkedin.com/in/lucien-vidagbandji-806429253"
       }
     ]
   },
