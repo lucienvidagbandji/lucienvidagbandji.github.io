@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-# Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2025-2026_**
+## Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2025-2026_**
 - Outils Mathématiques de Base 1 _2x25H_.
  1st year undergraduate, Semestre 1, Chemistry – Life Sciences (CSV).
 
@@ -22,13 +22,13 @@ nav_order: 6
 - Probabilité  _20 H_. 
 2st year undergraduate, Semestre 3,  Mathematics and Computer Science.
 
-# Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2024-2025_**
+## Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2024-2025_**
 - Outils Mathématiques de Base 1 & 2 _26H_.
  1st year undergraduate, Chemistry – Life Sciences (CSV).
 - Travaux pratique en Latex _6H_. 
 1st year undergraduate, Mathematics and Computer Science.
 
-# Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2023-2024_**
+## Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. **_2023-2024_**
 - Outils Mathématiques de Base 1 & 2 _26H_.
  1st year undergraduate, Chemistry – Life Sciences (CSV).
 - Travaux pratique en Latex _6H_. 
