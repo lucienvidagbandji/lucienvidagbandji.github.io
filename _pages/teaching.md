@@ -10,7 +10,6 @@ nav_order: 6
 ## Tutorials in Mathematics at UFR Sciences et Techniques, Université Le Havre Normandie, France. <a href=''> **_2025-2026_**</a>
 - <a href=''>Outils Mathématiques de Base 1 (_2x25H_) </a>.
  1st year undergraduate, Semestre 1, Chemistry – Life Sciences (CSV).
-
 - <a href=''>Algèbre de Base (_50 H_)</a>. 
 1st year undergraduate, Semestre 1, Mathematics and Computer Science.
 - <a href=''>Mathématiques pour Informatique  (_30 H_)</a>. 
