@@ -14,7 +14,7 @@ generalized random forests and block maxima approach. <a href='https://eva2025.u
 
 
 
-- Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Penalized estimation of GEV parameters for extreme quantile regression. <a href='https://jds2025.sciencesconf.org'> 56e Journées de la Société Francaise de Statistique, Campus Saint-Charles, Université Aix Marseille, France, 02-06 juin, 2025.
+- Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Penalized estimation of GEV parameters for extreme quantile regression. <a href='https://jds2025.sciencesconf.org'> 56e Journées de la Société Francaise de Statistique</a>.  Université Aix Marseille, Campus Saint-Charles, France, 02-06 juin, 2025.
 
 
 - Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Combining Extreme Value Theory and Random Forests for High Quantile Regression. <a href='https://normandie.math.cnrs.fr/Journees/Journee17/index.html'> 17e Journée de la Féderation Normandie Mathématiques </a>. INSA Rouen Normandie, France, 26 mai, 2025.
