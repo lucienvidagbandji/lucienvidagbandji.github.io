@@ -32,4 +32,4 @@ generalized random forests and block maxima approach. <a href='https://eva2025.u
 - Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. GEV-Extremal random forest. <a href='https://jds2024.sciencesconf.org'> 55e Journées de statistiques de la SFDS</a>. Campus de la victoire de l’Université de Bordeaux, France, 27-31 mai, 2024, 1098–1105.
 
 
-- Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Quantile regression, An approach based on GEV distribution and machine learning. <a href='https://iutdijon.u-bourgogne.fr/ccs-france-2023'> The french regional conference on complex systems</a>. Université Le Havre Normandie, France, 31 mai-2 juin, 2023,
+- Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Quantile regression, An approach based on GEV distribution and machine learning. <a href='https://iutdijon.u-bourgogne.fr/ccs-france-2023'> The french regional conference on complex systems</a>. Université Le Havre Normandie, France, 31 mai-2 juin, 2023.
