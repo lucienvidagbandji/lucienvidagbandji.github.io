@@ -88,8 +88,22 @@
   "publications": [
     {
       "name": "Generalized random forest for extreme quantile regression, Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L.",
-      "publisher": "Under review in Communications in Statistics - Simulation and Computation",
+      "publisher": "To appear in  Communications in Statistics - Simulation and Computation",
       "releaseDate": "2025",
+      "url": "10.1080/03610918.2025.2543854",
+      "summary": ""
+    },
+    {
+      "name": "Penalized estimation of GEV parameters for extreme quantile regression, Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L.",
+      "publisher": "Submitted ",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Consistency of Weighted maximum likelihood estimator for extreme quantile regression, M. L., Berred, A., Bertelle, C., & Amanton, L.",
+      "publisher": "To be Submitted ",
+      "releaseDate": "",
       "url": "",
       "summary": ""
     }
