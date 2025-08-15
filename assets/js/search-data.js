@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talk/";
           },
-        },{id: "nav-lucien-vidagbandji-curriculum-vitae",
-          title: "Lucien Vidagbandji - Curriculum Vitae",
+        },{id: "nav-cv",
+          title: "CV",
           description: "My Curriculum Vitae",
           section: "Navigation",
           handler: () => {
