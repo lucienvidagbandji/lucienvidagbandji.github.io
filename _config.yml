@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: false
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -98,7 +98,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 #related_blog_posts:
   #enabled: true
   #max_related: 5
-
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 #giscus:
