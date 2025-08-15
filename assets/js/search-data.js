@@ -41,7 +41,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/the_godfather/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
