@@ -33,7 +33,7 @@
       "highlights": ["Applied Mathematics"]
     }
   ],
-  
+
   "education": [
     {
       "institution": "Université  Le Havre, Normandie, France",
@@ -99,13 +99,7 @@
       "name": "Applied Mathematics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Extreme values analysis",
-        "Quantile regression",
-        "Statistical Learning",
-        "Statistics",
-        "Probability"
-      ]
+      "keywords": ["Extreme values analysis", "Quantile regression", "Statistical Learning", "Statistics", "Probability"]
     }
   ],
   "languages": [
@@ -124,14 +118,7 @@
     {
       "name": "Applied Mathematics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Extreme values analysis",
-        "Quantile regression",
-        "Statistical Learning",
-        "Statistics",
-        "Probability"
-        
-      ]
+      "keywords": ["Extreme values analysis", "Quantile regression", "Statistical Learning", "Statistics", "Probability"]
     }
   ]
 }
