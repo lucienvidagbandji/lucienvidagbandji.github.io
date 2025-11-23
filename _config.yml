@@ -217,7 +217,6 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
-
 # Sitemap settings
 defaults:
   - scope:
@@ -644,6 +643,5 @@ jsonresume:
   - languages
   - interests
   - references
-
 
   #google-site-verification: googleb348df9918c55d05.html
