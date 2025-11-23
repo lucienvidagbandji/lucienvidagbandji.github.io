@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+encoding: "utf-8"
 
 title: VIDAGBANDJI Mahutin Lucien # the website title (if blank, full name will be used instead)
 first_name: Lucien
@@ -652,4 +652,3 @@ jsonresume:
 
 #git revert 328830b
 #328830b
-#https://lmah.univ-lehavre.fr/~berred
