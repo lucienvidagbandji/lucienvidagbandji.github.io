@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/talk.md -->
+- Vidagbandji  al. Local Weighted Maximum Likelihood Estimator for Extreme Quantile Regression. <a href=''> Atelier des doctorants des laboratoires  LMI et LMRS </a>, Université de Rouen, 10 Mars, 2026.
 
 - Vidagbandji, M. L., Berred, A., Bertelle, C., & Amanton, L. Extreme quantile regression using
   generalized random forests and block maxima approach. <a href='https://eva2025.unc.edu/full-program'> International Conference on Extreme Value analysis, Probabilistic and Statistical Models and their Application (EVA 2025) </a>. University of North Carolina at Chapel Hill, USA, 22-27 June, 2025.
