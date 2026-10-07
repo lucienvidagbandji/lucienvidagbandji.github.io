@@ -8,9 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/talk.md -->
-- Vidagbandji et al. Parameter estimation of the generalized extreme value distribution using ge-
-neralized random forest methods. 18e Journée de la Fédération Normandie Mathématiques, Uni-
-versité de Caen Normandie, France, 17 Juin, 2026.
+- Vidagbandji et al. Parameter estimation of the generalized extreme value distribution using generalized random forest methods. 18e Journée de la Fédération Normandie Mathématiques, Université de Caen Normandie, France, 17 Juin, 2026.
 
 - Vidagbandji  al.  Local Weighted Maximum Likelihood Estimator for Extreme Quantile Regression. <a href='https://sites.google.com/view/atelier-des-doc-lmi-lmrs/accueil'> Atelier des doctorants des laboratoires  LMI et LMRS </a>, Université de Rouen, 10 Mars, 2026. (<a  style="color: blue;">Invited</a>)
 
